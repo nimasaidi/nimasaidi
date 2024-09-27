@@ -19,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nimasaidi&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=nimasaidi&label=profile%20Viewers&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)

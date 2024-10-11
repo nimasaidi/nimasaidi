@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ HI everyone im nima frond-end dev<br>👾Im programming for 2 years <br>🙎🏻‍♂️Im 20 and university student of software engineering
+🖥️ HI everyone im nima frond-end dev<br>👾Im programming for 4 years <br>🙎🏻‍♂️Im 20 and university student of software engineering
 
 
 ## 🌐 Socials:
